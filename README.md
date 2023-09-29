@@ -1,2 +1,4 @@
 # Overclock-AUOAF90
-Overclock display for Acer Nitro 5 144 Hz (AN515-57 Only)
+Tested working properly
+- AN515-57
+- MSI Bravo 15 c7v

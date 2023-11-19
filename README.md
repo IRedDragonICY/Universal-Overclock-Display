@@ -1,11 +1,17 @@
 [![Visitor](http://hits.dwyl.com/IRedDragonICY/Universal-Overclock-Display.svg)](http://hits.dwyl.com/IRedDragonICY/Universal-Overclock-Display)
+
+# Universal Overclock Display
+
 > **Disclaimer**
 > 
 > :warning: USE AT YOUR OWN RISK. :warning: The "Universal Overclock Display" is provided as-is without any express or implied warranty. While all efforts have been made to ensure the performance and reliability of this tool, the author does not guarantee that its use will not result in damage to your devices or data. The author is not liable for any potential damage
 
+## Table of Contents
+- [Model and Devices](#model-and-devices)
+- [Contribute](#contribute)
+- [Bugs](#bugs)
 
-
-# Model and Devices
+## Model and Devices
 | Display Model | Device | Info |
 | ------------- | ------ | ---- |
 | AUOAF90       | AN515-57 | |
@@ -25,7 +31,5 @@ We welcome contributions from the community. If you wish to contribute, please f
 
 Your contributions will be reviewed and, if deemed beneficial, will be merged into the main project. Together, we can make "Universal Overclock Display" better.
 
-
-
-# Bugs
+## Bugs
 - FreeSync or G-Sync won't work.

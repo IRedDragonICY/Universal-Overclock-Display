@@ -8,3 +8,6 @@
 | LEN9056       | LENOVO MT 82SB BU idea FM IdeaPad Gaming 3 15ARH7 | |
 | HAT1330       | Kamvas 13 | Hard limit Hardware |
 | HJV004D       |  | Unsupported, flickering |
+
+# Bugs
+- FreeSync or G-Sync won't work.

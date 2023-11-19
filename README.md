@@ -2,6 +2,9 @@
 > 
 > :warning: USE AT YOUR OWN RISK. :warning: The "Universal Overclock Display" is provided as-is without any express or implied warranty. While all efforts have been made to ensure the performance and reliability of this tool, the author does not guarantee that its use will not result in damage to your devices or data. The author is not liable for any potential damage
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=IRedDragonICY.Universal-Overclock-Display)
+
+
 # Model and Devices
 | Display Model | Device | Info |
 | ------------- | ------ | ---- |

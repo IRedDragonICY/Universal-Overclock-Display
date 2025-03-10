@@ -33,4 +33,4 @@ We welcome contributions from the community. If you wish to contribute, please f
 Your contributions will be reviewed and, if deemed beneficial, will be merged into the main project. Together, we can make "Universal Overclock Display" better.
 
 ## Bugs
-- FreeSync or G-Sync won't work.
+- ~FreeSync or G-Sync won't work.~ (fixed)
